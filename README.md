@@ -5,17 +5,17 @@ This is a Twitter clone built with Next.js. It features a timeline of tweets, a 
 ## Getting Started
 
 To get started, clone this repository and install the dependencies:
-
-git clone https://github.com/bito-ai/twitter-clone.git 
+```bash
+git clone https://github.com/benvilakazi/twitter_clone_0.git 
 cd twitter-clone
 npm install
-
+```
 ## Running the App
 
 To run the app, run the following command:
-
+```bash
 npm run dev
-
+```
 The app will be available at http://localhost:3000. 
 
 ## Contributing
